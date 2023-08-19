@@ -11,7 +11,8 @@ So when the drama deck flips we get a bunch of information.
 
 OK let's apply these numbers to a sample drama card.
 
-	
+	![image](https://github.com/GameKn1ght/GameKn1ght.github.io/assets/38305774/681464ff-62ed-4e7a-a101-536b9583c12a)
+
 
 So let's say that this is a standard encounter. Heroes will immediately take 2 Shock from Fatigued.
 
